@@ -215,7 +215,7 @@ GameObject:
   - component: {fileID: 1679627206}
   - component: {fileID: 1679627205}
   m_Layer: 0
-  m_Name: androidIdle1
+  m_Name: Robot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -231,7 +231,7 @@ Animator:
   m_GameObject: {fileID: 1679627204}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 38410aa39b7098043bc17aba7a14bc16, type: 2}
+  m_Controller: {fileID: 9100000, guid: d9c7c120d66881e438b5f88ea6edee5e, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
